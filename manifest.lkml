@@ -1,7 +1,7 @@
 project_name: "block_youtube_ads"
 
 constant: CONNECTION_NAME {
-  value: "connection_name"
+  value: "bq-looker-marketplace"
   export: override_optional
 }
 
